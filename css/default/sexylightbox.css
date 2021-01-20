@@ -156,7 +156,7 @@
 }
   .alertbox
   {
-    background  : url(/images/HituxCMSDefault/dialog-help.png) no-repeat scroll left top;
+    background  : url(http://127.0.0.1/images/HituxCMSDefault/dialog-help.png) no-repeat scroll left top;
     margin      : 0 10px;
     padding     : 0 0 5px 40px;
     font-family : Verdana;

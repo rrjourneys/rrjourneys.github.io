@@ -1,4 +1,4 @@
-﻿ 
+ 
 
 /** 清除内外边距 **/
 body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, 
@@ -95,23 +95,23 @@ img{ vertical-align:middle;}
 
 /*在线服务图标*/
 
-.arrow-top{background:url(/images/contact-icon.png) no-repeat 0px 0px;height:12px;padding-left:22px;}
-.contact-icon3{background:url(/images/contact-icon.png) no-repeat 0px -12px;height:24px;padding-left:30px;}
-.contact-icon2{background:url(/images/contact-icon.png) no-repeat 0px -36px;height:24px;padding-left:26px;}
-.contact-icon1{background:url(/images/contact-icon.png) no-repeat 0px -60px;height:24px;padding-left:25px;}
-.bdkf a{background:url(/images/gt01.gif) no-repeat center center;}
-.bdkf a:hover{background:url(/images/gt02.gif) no-repeat center center;}
+.arrow-top{background:url(http://127.0.0.1/images/contact-icon.png) no-repeat 0px 0px;height:12px;padding-left:22px;}
+.contact-icon3{background:url(http://127.0.0.1/images/contact-icon.png) no-repeat 0px -12px;height:24px;padding-left:30px;}
+.contact-icon2{background:url(http://127.0.0.1/images/contact-icon.png) no-repeat 0px -36px;height:24px;padding-left:26px;}
+.contact-icon1{background:url(http://127.0.0.1/images/contact-icon.png) no-repeat 0px -60px;height:24px;padding-left:25px;}
+.bdkf a{background:url(http://127.0.0.1/images/gt01.gif) no-repeat center center;}
+.bdkf a:hover{background:url(http://127.0.0.1/images/gt02.gif) no-repeat center center;}
 
 
 
-.service-icon6{background:url(/images/service-icon.png) no-repeat 0px 0px;height:63px;padding-left:66px;}
-.service-icon5{background:url(/images/service-icon.png) no-repeat 0px -63px;height:63px;padding-left:71px;}
-.service-icon8{background:url(/images/service-icon.png) no-repeat 0px -126px;height:63px;padding-left:65px;}
-.service-icon7{background:url(/images/service-icon.png) no-repeat 0px -189px;height:63px;padding-left:65px;}
-.service-icon2{background:url(/images/service-icon.png) no-repeat 0px -252px;height:63px;padding-left:37px;}
-.service-icon1{background:url(/images/service-icon.png) no-repeat 0px -315px;height:63px;padding-left:70px;}
-.service-icon4{background:url(/images/service-icon.png) no-repeat 0px -378px;height:63px;padding-left:83px;}
-.service-icon3{background:url(/images/service-icon.png) no-repeat 0px -441px;height:63px;padding-left:51px;}
+.service-icon6{background:url(http://127.0.0.1/images/service-icon.png) no-repeat 0px 0px;height:63px;padding-left:66px;}
+.service-icon5{background:url(http://127.0.0.1/images/service-icon.png) no-repeat 0px -63px;height:63px;padding-left:71px;}
+.service-icon8{background:url(http://127.0.0.1/images/service-icon.png) no-repeat 0px -126px;height:63px;padding-left:65px;}
+.service-icon7{background:url(http://127.0.0.1/images/service-icon.png) no-repeat 0px -189px;height:63px;padding-left:65px;}
+.service-icon2{background:url(http://127.0.0.1/images/service-icon.png) no-repeat 0px -252px;height:63px;padding-left:37px;}
+.service-icon1{background:url(http://127.0.0.1/images/service-icon.png) no-repeat 0px -315px;height:63px;padding-left:70px;}
+.service-icon4{background:url(http://127.0.0.1/images/service-icon.png) no-repeat 0px -378px;height:63px;padding-left:83px;}
+.service-icon3{background:url(http://127.0.0.1/images/service-icon.png) no-repeat 0px -441px;height:63px;padding-left:51px;}
 
 body{
 }
@@ -1965,60 +1965,60 @@ body{
 }
 
 .case-center .case-type ul li .all-icon{
-	background: #eee url(/images/case-type-icon.png) no-repeat 0px 0px;
+	background: #eee url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px 0px;
 }
 
 .case-center .case-type ul li:hover .all-icon,.case-center .case-type ul li.active .all-icon{
-	background: #0166ce url(/images/case-type-icon.png) no-repeat 0px -64px;
+	background: #0166ce url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -64px;
 }
 
 .case-center .case-type ul li .type1-icon{
-	background: #eee url(/images/case-type-icon.png) no-repeat 0px -128px;
+	background: #eee url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -128px;
 }
 
 .case-center .case-type ul li:hover .type1-icon,.case-center .case-type ul li.active .type1-icon{
-	background: #0166ce url(/images/case-type-icon.png) no-repeat 0px -192px;
+	background: #0166ce url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -192px;
 }
 
 .case-center .case-type ul li .type2-icon{
-	background: #eee url(/images/case-type-icon.png) no-repeat 0px -256px;
+	background: #eee url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -256px;
 }
 
 .case-center .case-type ul li:hover .type2-icon,.case-center .case-type ul li.active .type2-icon{
-	background: #0166ce url(/images/case-type-icon.png) no-repeat 0px -320px;
+	background: #0166ce url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -320px;
 }
 
 .case-center .case-type ul li .type3-icon{
-	background: #eee url(/images/case-type-icon.png) no-repeat 0px -384px;
+	background: #eee url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -384px;
 }
 
 .case-center .case-type ul li:hover .type3-icon,.case-center .case-type ul li.active .type3-icon{
-	background: #0166ce url(/images/case-type-icon.png) no-repeat 0px -448px;
+	background: #0166ce url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -448px;
 }
 
 .case-center .case-type ul li .type4-icon{
-	background: #eee url(/images/case-type-icon.png) no-repeat 0px -512px;
+	background: #eee url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -512px;
 }
 
 .case-center .case-type ul li:hover .type4-icon,.case-center .case-type ul li.active .type4-icon{
-	background: #0166ce url(/images/case-type-icon.png) no-repeat 0px -576px;
+	background: #0166ce url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -576px;
 }
 
 
 .case-center .case-type ul li .type5-icon{
-	background: #eee url(/images/case-type-icon.png) no-repeat 0px -640px;
+	background: #eee url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -640px;
 }
 
 .case-center .case-type ul li:hover .type5-icon,.case-center .case-type ul li.active .type5-icon{
-	background: #0166ce url(/images/case-type-icon.png) no-repeat 0px -704px;
+	background: #0166ce url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -704px;
 }
 
 .case-center .case-type ul li .type6-icon{
-	background: #eee url(/images/case-type-icon.png) no-repeat 0px -768px;
+	background: #eee url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -768px;
 }
 
 .case-center .case-type ul li:hover .type6-icon,.case-center .case-type ul li.active .type6-icon{
-	background: #0166ce url(/images/case-type-icon.png) no-repeat 0px -832px;
+	background: #0166ce url(http://127.0.0.1/images/case-type-icon.png) no-repeat 0px -832px;
 }
 
 .case-center .case-type ul li p{
@@ -2118,7 +2118,7 @@ body{
 	height: 30px;
 	padding-top: 56px;
 	text-align: center;
-	background: url(/images/service-en.png) no-repeat center top;
+	background: url(http://127.0.0.1/images/service-en.png) no-repeat center top;
 }
 
 .service-header h3{
@@ -2180,7 +2180,7 @@ body{
 	padding-top: 56px;
 	height: 30px;
 	text-align: center;
-	background: url(/images/package-en.png) no-repeat center top;
+	background: url(http://127.0.0.1/images/package-en.png) no-repeat center top;
 }
 
 .package-header h3{
@@ -2241,7 +2241,7 @@ body{
 	height: 68px;
 	bottom: 0;
 	left: -25px;
-	background: url(/images/package-on.png) no-repeat center;
+	background: url(http://127.0.0.1/images/package-on.png) no-repeat center;
 	z-index: 10;
 	-webkit-transition: 0.3s linear;
 	-o-transition: 0.3s linear;
@@ -2257,7 +2257,7 @@ body{
 	overflow: hidden;
 	height: 425px;
 	padding: 50px;
-	background: url(/images/package-detail-bg.jpg) no-repeat center center;
+	background: url(http://127.0.0.1/images/package-detail-bg.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	background-size: cover;
 }
@@ -2372,7 +2372,7 @@ body{
 	color: #666666;
 }
 .team_b {
-	background-image: url(../imgs/team_b.gif);
+	background-image: url(http://127.0.0.1/css/imgs/team_b.gif);
 	background-repeat: repeat-y;
 	background-position: right;
 	line-height: 50px;
@@ -2383,7 +2383,7 @@ body{
 	font-size: 18px;
 }
 .banner_linian {
-	background-image: url(../imgs/about_c_01.jpg);
+	background-image: url(http://127.0.0.1/css/imgs/about_c_01.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 }
@@ -2415,7 +2415,7 @@ list-style:disc !important;
 	font-weight: bold;
 }
 .vip_kehu {
-	background-image: url(../imgs/about_e_01.jpg);
+	background-image: url(http://127.0.0.1/css/imgs/about_e_01.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 }
@@ -2448,7 +2448,7 @@ a.vip_tel:hover {
 	line-height: 38px;
 }
 .nuozhufeng_b {
-	background-image: url(../imgs/team_b.gif);
+	background-image: url(http://127.0.0.1/css/imgs/team_b.gif);
 	background-repeat: repeat-y;
 	background-position: right;
 }
@@ -2536,7 +2536,7 @@ a.nuozhufeng_news_more:hover {
 	color: #E9C20B;
 }
 .nuozhufeng_banner_why {
-	background-image: url(../imgs/nuozhufeng_why.jpg);
+	background-image: url(http://127.0.0.1/css/imgs/nuozhufeng_why.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 }
@@ -2583,7 +2583,7 @@ list-style:disc !important;
 	display: inline;
 }
 .nuozhufeng_info_foot_bg {
-	background-image: url(../imgs/rec.png);
+	background-image: url(http://127.0.0.1/css/imgs/rec.png);
 	background-repeat: repeat-x;
 	background-position: center;
 }
@@ -2628,7 +2628,7 @@ a.nuozhufeng_back {
 	text-decoration: none;
 	color: #333333;
 	display: block;
-	background-image: url(../imgs/back_a.png);
+	background-image: url(http://127.0.0.1/css/imgs/back_a.png);
 	background-repeat: no-repeat;
 	background-position: left center;
 	text-align: center;
@@ -2640,14 +2640,14 @@ a.nuozhufeng_back:hover {
 	font-size: 15px;
 	color:#fff;
 	transition: 1s;
-	background-image: url(../imgs/back_b.png);
+	background-image: url(http://127.0.0.1/css/imgs/back_b.png);
 }
 a.nuozhufeng_anniu {
 	font-size:15px;
 	text-decoration: none;
 	color: #333333;
 	display: block;
-	background-image: url(../imgs/anniu_a.png);
+	background-image: url(http://127.0.0.1/css/imgs/anniu_a.png);
 	background-repeat: no-repeat;
 	background-position: left center;
 	text-align: center;
@@ -2659,7 +2659,7 @@ a.nuozhufeng_anniu:hover {
 	font-size: 15px;
 	color:#fff;
 	transition: 1s;
-	background-image: url(../imgs/anniu_b.png);
+	background-image: url(http://127.0.0.1/css/imgs/anniu_b.png);
 }
 .case_bbbb {
 	padding: 15px;

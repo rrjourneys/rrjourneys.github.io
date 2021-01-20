@@ -1,4 +1,4 @@
-﻿ #FocusBG{
+ #FocusBG{
 	height:207px;
 	width:100%;
 	position:relative;
@@ -296,7 +296,7 @@
 	margin-top:10px;}
 #body .inner .right .main .content .prenext ul li{
 	line-height:30px;
-	background:url("/images/HituxCMSRate/jiantou.gif") no-repeat 0px 1px;
+	background:url("http://127.0.0.1/images/HituxCMSRate/jiantou.gif") no-repeat 0px 1px;
 	padding-left:15px;}				
 				
 #body .inner .right .main .ArticleList{
@@ -447,7 +447,7 @@
 	padding:10px 20px;
 	border-bottom:1px dashed #CCCCCC;
 	font-size:14px;
-	background:url("/images/HituxCMSRate/ico4.jpg") no-repeat left 18px;}
+	background:url("http://127.0.0.1/images/HituxCMSRate/ico4.jpg") no-repeat left 18px;}
 
 
 #body .inner .right .main .SiteMap ul li ul li{
@@ -966,7 +966,7 @@ p{
  width: 50px;
  height:50px;
  line-height: 1.2;
- background:url("/images/HituxCMSRate/back_top.png") left top;;
+ background:url("http://127.0.0.1/images/HituxCMSRate/back_top.png") left top;;
  color: #fff;
  font-size: 12px;
  text-align: center;
@@ -1015,7 +1015,7 @@ p{
 	z-index: 9;
 }
 #popupTitleBar {
-	background:url("../../images/HituxCMSRate/box_bg1.jpg") repeat-x left top;
+	background:url("../../images/box_bg1.jpg") repeat-x left top;
 	color: #27323F;
 	font-weight: bold;
 	height: 1.3em;
@@ -1037,7 +1037,7 @@ p{
 	height: 15px;
 	width: 15px;
 	text-indent: -9000px;
-	background: url('../../images/HituxCMSRate/close.gif') no-repeat;
+	background: url('../../images/close.gif') no-repeat;
 }
 
 .VideoBox{
