@@ -1,4 +1,4 @@
-﻿/*
+/*
 	ClearBox JS by pyro
 */
 

@@ -1,4 +1,4 @@
-﻿function mobileRedirect(murl){
+function mobileRedirect(murl){
 try {
 if(document.getElementById("bdmark") != null){
 return;

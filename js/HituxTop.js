@@ -1,4 +1,4 @@
-﻿document.writeln("<div id=\"HituxBackTop_item\">");
+document.writeln("<div id=\"HituxBackTop_item\">");
 document.writeln("        <a id=\"HituxBackTop\" onclick=\"return false;\" title=\"回到顶部\"></a>");
 document.writeln("  ");
 document.writeln("</div>");
